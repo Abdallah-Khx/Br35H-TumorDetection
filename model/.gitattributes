@@ -1,1 +1,2 @@
-mask_tumor.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+model/maskrcnn_tumor.pth filter=lfs diff=lfs merge=lfs -text
